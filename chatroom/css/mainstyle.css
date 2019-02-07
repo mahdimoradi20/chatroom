@@ -1,0 +1,42 @@
+body{
+	
+	background-image : url("../image/back.jpg");
+	
+}
+
+#board{
+	
+	width : 850px;
+	height : 400px;
+	background-color : aqua;
+	position : fixed;
+	top : 130px;
+	left : 220px;
+	border-style : dashed;
+	overflow : auto;
+	
+
+	
+}
+
+#frm{
+	
+	top : 560px;
+	left : 220px;
+	position : fixed;
+}
+
+#txt{
+		height : 35px;
+		width : 760px;
+		font-size : 30px;
+	
+}
+
+#send{
+	
+	width : 90px;
+	height : 40px;
+	font-size : 30px;
+	
+}

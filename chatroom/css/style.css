@@ -1,0 +1,67 @@
+#panel{
+	
+	width : 500px;
+	height : 300px;
+	margin-left : 25%;
+	margin-right : 25%;
+	margin-top : 100px;
+	background-color : aqua;
+	position : fixed;
+}
+
+#usrtext{
+	
+	/*margin-top : 30px;*/
+	/*margin-left : 200px;*/
+	width : 250px;
+	height : 30px;
+	top : 130px;
+	left : 200px;
+	position : absolute;
+	
+}
+
+#p1{
+	
+	top : 120px ;
+	left : 20px;
+	position : absolute;
+	font-size : 20px;
+	text-shadow : 0px 0px 10px #ff0000
+}
+
+#head{
+	
+	top : 20px;
+	left : 210px;
+	position : absolute;
+	font-size : 25px;
+	text-shadow : 0px 0px 10px #00ff00;
+
+}
+
+#submit{
+
+	top : 210px;
+	left : 230px;
+	position : absolute;
+	font-size : 26px;
+	color : red;
+	border-style : solid;
+	border-width : 5px;
+	background-color : lightgreen ;
+
+}
+#err{
+	
+	top : 250px;
+	left : 180px;
+	width : 200px;
+	height:20px;
+	background-color : red;
+	position : absolute;
+	color : yellow;
+	text-align : center;
+	visibility : hidden;
+
+}
